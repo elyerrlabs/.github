@@ -1,77 +1,56 @@
 # Elyerr Labs
 
-**Elyerr Labs** is an organization focused on building modular tools and packages for the Laravel ecosystem, with a strong emphasis on clean architecture, scalability, and long-term maintainability.
+**Elyerr Labs** builds modular tools for the Laravel ecosystem, focused on clean architecture, scalability, and real-world backend systems.
 
-Our work is driven by real-world needs, especially around **modern authorization systems**, **OAuth2**, and **modular backend design**.
+Our main areas of work include **OAuth2 authorization**, **modular frameworks**, and **production-oriented Laravel packages**.
 
 ---
 
 ## 🎯 Mission
 
-To provide high-quality, well-structured Laravel packages that help developers build robust, scalable systems without unnecessary complexity.
+Build well-structured Laravel packages that help developers create scalable systems without unnecessary complexity.
 
-We believe that:
+We believe in:
 
-* Modularity improves maintainability
-* Explicit architecture beats hidden magic
-* Packages should solve real problems, not demos
+- Modularity over monoliths  
+- Explicit architecture over hidden magic  
+- Solving real problems, not demos  
 
 ---
 
 ## 🧩 What We Build
 
-* Modular Laravel packages
-* Authorization & authentication tools (OAuth2 / Passport-based systems)
-* Lightweight runtimes and framework extensions
-* Developer-focused utilities for backend systems
+- Modular Laravel packages  
+- OAuth2 / Passport-based authorization systems  
+- Lightweight runtimes and framework extensions  
+- Developer utilities for backend architecture  
 
-Most packages are designed to work independently, but also integrate cleanly into larger architectures.
-
----
-
-## 🛠 Philosophy
-
-* **Laravel-first**, but architecture-aware
-* Clear boundaries between modules
-* Minimal abstractions, maximum clarity
-* Production-oriented, not experimental
+Packages are designed to work standalone or as part of larger modular systems.
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source & Community
 
-Elyerr Labs actively supports open-source development.
+Elyerr Labs is fully open-source.
 
-* Public packages are released under permissive licenses
-* Documentation is treated as a first-class feature
-* Stability and backward compatibility matter
+We care about:
 
----
+- Clear documentation  
+- Long-term maintainability  
+- Stable APIs  
 
-## 🚀 Getting Started
+If you're interested in the project, updates, or discussions, feel free to join our community:
 
-Each repository contains:
+👉 https://t.me/elyerrlabs
 
-* Installation instructions
-* Configuration examples
-* Usage guides
-* Architectural notes (when relevant)
-
-Start by exploring the repositories and choose the package that fits your needs.
+(Progress, ideas, and short development videos are shared over time.)
 
 ---
 
 ## 👤 Maintained by
 
-**Elyerr Roman**
+**Elyerr Roman**  
 Backend developer focused on Laravel, modular systems, and authorization servers.
-
----
-
-## 🔗 Links
-
-* Website: [https://elyerr.org](https://elyerr.org)
-* GitHub Organization: ElyerrLabs
 
 ---
 
