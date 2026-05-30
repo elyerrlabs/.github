@@ -1,4 +1,4 @@
-# Elyerr Labs
+# ElyerrLabs
 
 **Elyerr Labs** develops **OAuth2 Passport Server**, a modular OAuth2 authorization platform for Laravel designed for real-world applications.
 
