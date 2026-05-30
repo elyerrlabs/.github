@@ -1,57 +1,44 @@
 # Elyerr Labs
 
-**Elyerr Labs** builds modular tools for the Laravel ecosystem, focused on clean architecture, scalability, and real-world backend systems.
+**Elyerr Labs** develops **OAuth2 Passport Server**, a modular OAuth2 authorization platform for Laravel designed for real-world applications.
 
-Our main areas of work include **OAuth2 authorization**, **modular frameworks**, and **production-oriented Laravel packages**.
+The ecosystem includes extensions, modules, and supporting packages that help teams build scalable authentication, authorization, API management, and backend systems without sacrificing maintainability.
 
----
+## 🚀 OAuth2 Passport Server
 
-## 🎯 Mission
+OAuth2 Passport Server provides a complete authorization platform for Laravel with:
 
-Build well-structured Laravel packages that help developers create scalable systems without unnecessary complexity.
+* OAuth2 authentication and authorization
+* Scope and permission management
+* API key management
+* Modular architecture
+* Extensible services and integrations
+* Production-ready administration tools
 
-We believe in:
+Additional packages are built around the platform to extend functionality while keeping the core system clean and focused.
 
-- Modularity over monoliths  
-- Explicit architecture over hidden magic  
-- Solving real problems, not demos  
+## 🏗️ Design Principles
 
----
+* Modularity over monoliths
+* Explicit architecture over hidden magic
+* Long-term maintainability
+* Production-first development
+* Stable and predictable APIs
 
-## 🧩 What We Build
+## 🌍 Open Source
 
-- Modular Laravel packages  
-- OAuth2 / Passport-based authorization systems  
-- Lightweight runtimes and framework extensions  
-- Developer utilities for backend architecture  
+All projects are developed as open-source software with a focus on quality, transparency, and developer experience.
 
-Packages are designed to work standalone or as part of larger modular systems.
-
----
-
-## 🌍 Open Source & Community
-
-Elyerr Labs is fully open-source.
-
-We care about:
-
-- Clear documentation  
-- Long-term maintainability  
-- Stable APIs  
-
-If you're interested in the project, updates, or discussions, feel free to join our community:
+Community:
 
 👉 https://t.me/elyerrlabs
 
-(Progress, ideas, and short development videos are shared over time.)
+## 👤 Maintainer
+
+**Elyerr Roman**
+
+Backend developer focused on Laravel, OAuth2 authorization servers, and modular architectures.
 
 ---
 
-## 👤 Maintained by
-
-**Elyerr Roman**  
-Backend developer focused on Laravel, modular systems, and authorization servers.
-
----
-
-> Building modular Laravel systems for real-world applications.
+**Building authorization platforms and modular backend systems for Laravel.**
